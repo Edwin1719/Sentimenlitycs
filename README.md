@@ -15,11 +15,16 @@
 ## Technologies used
 
 -**Python:** Programming language used to develop the project.
+
 -**OpenAI API:** AI service used for sentiment analysis.
+
 -**dotenv:** Library for loading environment variables from a .env file.
+
 -**pandas:** Library for data manipulation and analysis, used to handle the CSV file.
 
 ## **Documentation**
-! https://blog.pachahosting.com/como-realizar-analisis-de-datos-en-python-usando-la-api-de-openai/
+! https://blog.pachahosting.com/como-realizar-analisis-de-datos-en-python-usando-la-api-de-openai
+
 ! https://www.youtube.com/watch?v=0S9HR0Xt3Po
+
 ! https://www.datacamp.com/es/tutorial/text-analytics-beginners-nltk
